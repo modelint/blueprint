@@ -8,10 +8,10 @@ This repository is documentation only — there is no application code here. The
 individual tools live in their own repositories under the
 [`modelint`](https://github.com/modelint) organization.
 
-## Start here
+## 📖 Read the docs in the [Blueprint wiki](https://github.com/modelint/blueprint/wiki)
 
-- **[Ecosystem overview](docs/README.md)** — how the tools fit together, with a
-  pipeline diagram and links into each tool's page.
+The wiki is the detailed write-up: how the tools fit together, plus a page for
+each tool.
 
 ## The tools
 
@@ -22,5 +22,3 @@ individual tools live in their own repositories under the
 | make-xuml-repo | [make-xuml-repo](https://github.com/modelint/make-xuml-repo) | Build the model repository database from the metamodel |
 | mx | _(add repo)_ | _(describe)_ |
 | mdb | [model-debugger](https://github.com/modelint/model-debugger) | Modeling-language-independent model debugger |
-
-See [docs/](docs/) for the full write-up.
