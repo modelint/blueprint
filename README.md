@@ -1,6 +1,6 @@
-# Blueprint
+# Blueprint MBSE
 
-Blueprint is not yet another monolithic, licensed MBSE tool.
+Blueprint is not yet another monolithic, licensed MBSE (Model Based Systems Engineering) tool.
 
 Instead, Blueprint defines an AI ready text based toolchain that you can use to develop, debug, and maintain fully executable and platform independent models of your system's software requirements.
 
