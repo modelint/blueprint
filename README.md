@@ -2,9 +2,9 @@
 
 Blueprint is not yet another monolithic, licensed MBSE (Model Based Systems Engineering) tool.
 
-Instead, Blueprint defines an AI ready text based toolchain that you can use to develop, debug, and maintain fully executable and platform independent models of your system's software requirements.
+Instead, Blueprint defines an AI ready text based toolchain that you can use to develop, debug, and maintain fully executable, platform independent models of how your system is required to behave.
 
-Blueprint focuses on the most critical part of your system: the required software behavior.
+That behavior is ultimately realized in software, so Blueprint keeps its focus there — the required software behavior is the most critical and nuanced part of your system to specify. But what you are really specifying is the system, not just the code that runs it. Reliable software is a consequence of a complete, executable understanding of the real-world system it serves, never the other way around. And because these models are platform independent — with every deployment and coding concern stripped away — what remains is a precise specification of the system's intended behavior: the machine defined in terms of the world it must serve.
 
 ### Why this approach?
 
